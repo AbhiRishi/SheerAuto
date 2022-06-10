@@ -12,7 +12,7 @@ public class Login_Sheer {
 	public static void main(String[] args) {
 		System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver_win32\\chromedriver.exe");
 	       
-		// Instantiate a ChromeDriver class.
+		// Instantiate a ChromeDriver class
 	        WebDriver driver = new ChromeDriver();
 	  
 	        // Maximize the browser
